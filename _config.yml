@@ -3,5 +3,7 @@ Chieh H Chang (title:Network and Computer System Administrator) and a brief desc
 - Measure program strengths and weaknesses, implementing changes as needed.
 - Provide technical support to staff and faculty in over 10 departments.
 - Manage daily technology tasks and coordinate projects with the Senior Technology Officer.
-theme: jekyll-theme-leap-merlot
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
