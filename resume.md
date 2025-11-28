@@ -26,8 +26,9 @@ Machine learning algorithms predicting cancer associated with diabetes and hyper
 
 Cancer, diabetes, and hypertension are significant global health concerns with high prevalence and mortality rates in the U.S. Epidemiological research indicates a link between type 2 diabetes, hypertension, and an increased risk of cancer, which may interact synergistically. Early prediction of cancer in these populations is crucial. Machine learning (ML) is effective at predicting complex diseases; however, current ML-based cancer risk assessments for individuals with both diabetes and hypertension, utilizing existing national data, are insufficient. This study aims to overcome this limitation by utilizing the NHANES dataset from 2021-2023, a comprehensive U.S. health resource, along with ML algorithms to evaluate cancer risk in this high-risk group. The study seeks to explore associations and develop robust ML prediction models, potentially enhancing early detection, personalized care, and public health initiatives.
 
+
 ### Professional Experience: 
-Network and Computer System Administrator, Howard University, Washington, DC  
+Network and Computer System Administrator, HU
 
 
 
