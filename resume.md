@@ -30,8 +30,6 @@ Cancer, diabetes, and hypertension are significant global health concerns with h
 ### Professional Experience: 
 Network and Computer System Administrator, HU
 
-<a href="{{ site.baseurl }}/my_resume.pdf" download="My-Document.pdf" class="button-style-name">
-  Download My Resume
-</a>
+[Download My Resume (PDF)](https://chichang88.github.io/my_resume_112825.pdf)
 
 
