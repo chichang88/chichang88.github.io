@@ -11,4 +11,4 @@ Experienced professional in project coordination and resource management with de
 * **Email:** [chiehhsiungchang1@bison.howard.edu](mailto:chiehhsiungchang1@bison.howard.edu)
 * **LinkedIn:** [https://www.linkedin.com/in/chi-c-05442a2b4/
 ](https://www.linkedin.com/in/chi-c-05442a2b4/)
-* **Github:** [https://[chichang88.github.io/](https://github.com/chichang88)
+* **Github:** [https://github.com/chichang88](https://github.com/chichang88)
