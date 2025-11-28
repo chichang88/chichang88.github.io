@@ -32,4 +32,6 @@ Network and Computer System Administrator, HU
 
 [Download My Resume (PDF)](https://chichang88.github.io/my_resume_112825.pdf)
 
+[Back to GitHub Pages landing page](https://chichang88.github.io)
+
 
