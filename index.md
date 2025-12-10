@@ -14,6 +14,7 @@ Experienced professional in project coordination and resource management with de
 * **Github:** [https://github.com/chichang88](https://github.com/chichang88)
 * **Resume:** [https://chichang88.github.io/resume.html](https://chichang88.github.io/resume.html)
 * **Comp Social Justice:** [Click here for more details](https://chichang88.github.io/CSJ121225.pdf)
+* **Data Storytelling:** [Click here for more details](https://public.tableau.com/views/120324_CC_Final_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   
   
