@@ -12,4 +12,4 @@ Experienced professional in project coordination and resource management with de
 * **LinkedIn:** [https://www.linkedin.com/in/chi-c-05442a2b4/
 ](https://www.linkedin.com/in/chi-c-05442a2b4/)
 * **Github:** [https://github.com/chichang88](https://github.com/chichang88)
-* **resume:** [https://chichang88.github.io/resume.html](https://chichang88.github.io/resume.html)
+* **Resume:** [https://chichang88.github.io/resume.html](https://chichang88.github.io/resume.html)
